@@ -1,0 +1,27 @@
+div {
+  background-color: rgb(230, 6, 6);
+  height: 50vw;
+  width: 150vw;
+}
+
+button {
+  background-color: blue;
+  width: 100px;
+  height: 300px;
+
+  border: 1px solid red;
+}
+
+h3 {
+  color: blueviolet;
+}
+
+div {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  padding: 20px;
+  border: 30px dashed black;
+  margin: 10px;
+}
